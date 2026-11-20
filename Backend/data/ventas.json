@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "fecha": "2026-11-20T17:45:52+01:00",
+        "productos": [
+            {
+                "productoId": 1,
+                "nombreProducto": "Manzanas",
+                "kilos": 5.001,
+                "precioKg": 2.5,
+                "subtotal": 12.5
+            }
+        ],
+        "total": 12.5
+    }
+]

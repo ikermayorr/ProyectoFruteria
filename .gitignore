@@ -1,0 +1,6 @@
+Backend/venv/
+**/__pycache__/
+Frontend/**/bin/
+Frontend/**/obj/
+.vscode/
+*.user

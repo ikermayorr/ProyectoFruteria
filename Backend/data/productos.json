@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "nombre": "Manzanas",
+        "categoria": "Fruta",
+        "precioKg": 2.5,
+        "stockKg": 24.999
+    },
+    {
+        "id": 2,
+        "nombre": "Plátanos",
+        "categoria": "Fruta",
+        "precioKg": 1.8,
+        "stockKg": 25.0
+    },
+    {
+        "id": 3,
+        "nombre": "Naranjas",
+        "categoria": "Fruta",
+        "precioKg": 2.0,
+        "stockKg": 40.0
+    },
+    {
+        "id": 4,
+        "nombre": "Zanahorias",
+        "categoria": "Verdura",
+        "precioKg": 1.4,
+        "stockKg": 18.0
+    },
+    {
+        "id": 5,
+        "nombre": "Tomates",
+        "categoria": "Verdura",
+        "precioKg": 2.8,
+        "stockKg": 20.0
+    }
+]
